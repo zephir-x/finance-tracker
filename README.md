@@ -213,5 +213,5 @@ You can download the latest stable version from the **Releases** section:
 
 ---
 
-**Author:** Kacper Gumulak - [Zorquan04](https://github.com/Zorquan04)  
-**GitHub:** [Finance Tracker Repository](https://github.com/Zorquan04/finance-tracker)
+**Author:** Kacper Gumulak - [zephir-x](https://github.com/zephir-x)  
+**GitHub:** [Finance Tracker Repository](https://github.com/zephir-x/finance-tracker)

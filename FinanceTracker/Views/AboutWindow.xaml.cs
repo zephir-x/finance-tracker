@@ -26,7 +26,7 @@ namespace FinanceTracker.Views
         {
             Process.Start(new ProcessStartInfo
             {
-                FileName = "https://github.com/Zorquan04",
+                FileName = "https://github.com/zephir-x",
                 UseShellExecute = true
             });
         }

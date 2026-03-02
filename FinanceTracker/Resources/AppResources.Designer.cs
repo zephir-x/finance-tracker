@@ -817,7 +817,7 @@ namespace FinanceTracker.Resources {
         }
         
         /// <summary>
-        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Created by Kacper Gumulak / Zorquan04.
+        /// Wyszukuje zlokalizowany ciąg podobny do ciągu Created by Kacper  @zephir-x.
         /// </summary>
         public static string Title_CreatedBy {
             get {
